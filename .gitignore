@@ -1,0 +1,5 @@
+Angular2App/src/Angular2App/node_modules/
+Angular2App/src/Angular2App/wwwroot/lib/
+Angular2App/src/Angular2App/wwwroot/js/**/*.js
+Angular2App/src/Angular2App/project.lock.json
+*.map
